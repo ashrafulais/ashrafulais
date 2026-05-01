@@ -1,106 +1,38 @@
 # Hi, I'm Ashraful 👋
 
-Backend-focused software engineer from Bangladesh who enjoys building reliable systems, developer tools, and practical products.
+Backend-focused software engineer, building fintech, cash-industry, SaaS, and automation solutions with a strong focus on scalable systems and real-world business workflows.
 
-I care deeply about:
+Currently working with `.NET / C#, Node.js, TypeScript, Angular, React, SQL, system design, SaaS architecture, reconciliation flows, payment workflows, and developer tooling.`
 
-* Clean architecture
-* Product thinking
-* High-performance backend systems
-* Automation & tooling
-* Real-world problem solving
-
-Currently working across:
-
-* .NET / C#
-* Node.js & TypeScript
-* SQL & system design
-* SaaS architecture
-* Desktop tooling with Tauri
+Interested in scalable backend systems, product thinking, automation, AI-assisted engineering, and practical software that solves real business problems.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured
 
 ### 📁 FOLDDR
 
-A desktop-focused file organization tool designed to ignore certain folders from cloud sync.
+Desktop utility for excluding selected folders from cloud sync providers using symlink-based organization.
 
-**Highlights**
+Highlights: OneDrive/cloud-sync ignore workflow, local-only large folders, symlink-based management, Tauri + React.
 
-* Smart file organization
-* Safe preview mode
-* Undo support
-* Conflict-safe file handling
-* Cross-platform support
-* Watch mode automation
+🔗 Repo: [https://github.com/ashrafulais/folddr](https://github.com/ashrafulais/folddr)
 
-🔗 Repo: [Folddr](https://github.com/ashrafulais/folddr)
+## 🛠 Stack
 
----
-
-## 🧠 What I'm Interested In
-
-* Building SaaS products
-* Fintech & reconciliation systems
-* Developer productivity tools
-* AI-assisted engineering workflows
-* Scalable backend architecture
-* Automation systems
+* ASP.NET Core
+* Node.js / Express, React / Angular
+* SQL Server / PostgreSQL
+* Docker, Cloudflare, Linux
 
 ---
 
-## 🛠 Tech Stack
+## 🌱 Exploring
 
-### Backend
-
-* .NET / ASP.NET Core
-* Node.js
-* Express.js
-* REST APIs
-* SQL Server
-* PostgreSQL
-
-### Frontend
-
-* React
-* Next.js
-* TailwindCSS
-
-### Dev & Infra
-
-* Docker
-* GitHub Actions
-* Cloudflare
-* Linux
-* Tauri
-
----
-
-## 📌 Philosophy
-
-I enjoy building software that:
-
-* Solves practical problems
-* Stays maintainable long-term
-* Feels fast and reliable
-* Avoids unnecessary complexity
-
----
-
-## 🌱 Currently Exploring
-
-* AI-assisted software engineering
-* Multi-app SaaS architecture
-* Payment systems & billing workflows
-* Event-driven systems
-
----
+AI-assisted engineering, multi-app SaaS systems, payment & billing workflows, event-driven architecture.
 
 ## 📫 Connect
 
-* GitHub: [@ashrafulais](https://github.com/ashrafulais/ashrafulais)
+GitHub: [https://github.com/ashrafulais](https://github.com/ashrafulais)
 
----
-
-> "Build useful things. Keep learning. Stay consistent."
+Open to backend engineering, SaaS, fintech, automation opportunities.
